@@ -4514,5 +4514,5 @@ except (KeyboardInterrupt, SystemExit):
     time.sleep(0.1)
     print fcolor.BWhite + "Please support by liking my page at " + fcolor.BBlue + "https://www.facebook.com/syworks" +fcolor.BWhite + " (SYWorks-Programming)"
 
-    print ""
+    print fcolor.CReset + ""
    
